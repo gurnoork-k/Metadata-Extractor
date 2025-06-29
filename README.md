@@ -18,8 +18,8 @@ git clone https://github.com/gurnoork-k/Metadata-Extractor
 cd exif-extractor
 ```
 
-# EXAMPLE USAGE 
-If your script is named extractor.py, run it like this in terminal:
+# Example Usage
+Run the script in the terminal:
 
 `python extractor.py photo.jpg`
 And it’ll print all the metadata of photo.jpg.
