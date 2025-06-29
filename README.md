@@ -16,3 +16,10 @@ A simple Python CLI tool to extract Exif metadata from image files using `exifto
 ```bash
 git clone https://github.com/gurnoork-k/Metadata-Extractor
 cd exif-extractor
+```
+
+# EXAMPLE USAGE 
+If your script is named extractor.py, run it like this in terminal:
+
+`python extractor.py photo.jpg`
+And it’ll print all the metadata of photo.jpg.
