@@ -15,7 +15,7 @@ A simple Python CLI tool to extract Exif metadata from image files using `exifto
 
 ```bash
 git clone https://github.com/gurnoork-k/Metadata-Extractor
-cd exif-extractor
+cd Metadata-Extractor
 ```
 
 # Example Usage
