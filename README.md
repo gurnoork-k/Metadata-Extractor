@@ -21,5 +21,5 @@ cd Metadata-Extractor
 # Example Usage
 Run the script in the terminal:
 
-`python extractor.py photo.jpg`
+`python extractor.py test.jpg`
 And it’ll print all the metadata of photo.jpg.
